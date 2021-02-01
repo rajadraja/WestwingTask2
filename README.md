@@ -1,9 +1,12 @@
 # WestwingTask2
-Westwinf assestment
+
+Westwing assessment.
+
 1.Download and setup the folder
 2.Run using "npm test" command.
+
 Configuration:
-SPEC report, mocha and webdriver IO framework.
+mocha and webdriver IO framework, spec report
 
 Chellanges:
 I could see lot of changes in the website (popups).
